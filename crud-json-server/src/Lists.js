@@ -13,7 +13,7 @@ function Lists(props) {
         )
     })
     return (
-        <table className="table table=striped">
+        <table className="table table-striped">
             <thead>
                 <tr>
                     <th>#</th>
